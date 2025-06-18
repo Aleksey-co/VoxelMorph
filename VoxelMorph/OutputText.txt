@@ -1,0 +1,4 @@
+My first string
+My second string
+and even a third string
+abc
