@@ -1,4 +1,4 @@
-![VoxelMorphLogo](https://github.com/Aleksey-co/VoxelMorph/tree/main/VoxelMorph/Assets/Resources/Textures/logo.png)
+![VoxelMorphLogo](https://github.com/Aleksey-co/VoxelMorph/blob/main/VoxelMorph/Assets/Resources/Textures/Logo.png)
 # VoxelMorph
 Небольшой воксельный редактор для дипломной работы.
 
