@@ -3,7 +3,7 @@
 Небольшой воксельный редактор для дипломной работы.
 
 Скрипты находятся в папке: 
-##"VoxelMorph\Assets\Resources\Scripts"
+## "VoxelMorph\Assets\Resources\Scripts"
 
 Текстуры: 
-##"VoxelMorph\Assets\Resources\Textures"
+## "VoxelMorph\Assets\Resources\Textures"
